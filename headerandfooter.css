@@ -1,0 +1,69 @@
+body{
+	background-color:#1B1B1B;
+	font-family: 'Space Grotesk', sans-serif;
+	color:white;
+}
+
+#logo{
+	font-size:3rem;
+	font-weight: bold;
+	
+}
+
+#logo i{
+	color: #F92C85;
+	text-shadow: 2px 2px 2px black;
+	margin: 0px !important;
+	padding: 0px !important
+}
+
+#logo span{
+	color: white;
+	font-family: 'Courier new', monospace;
+	text-shadow: 2px 2px 2px #F92C85;
+	
+}
+
+
+#menubutton{
+	color:#F5F5F5;
+	font-size: 24px;
+}
+
+#menubutton:hover{
+	color:#F92C85;
+}
+
+#emailandnumber i{
+	font-size: 1.5rem; 
+	color:#F92C85;
+	text-shadow: 2px 2px 2px black;
+	
+}
+
+
+
+.offcanvas{
+	background-color:#F92C85;
+	border: 1px solid #5EBEC4;
+	font-size: 1.5rem;
+	font-family: 'Space Grotesk', sans-serif;
+}
+
+.nav-link{
+	color:#36393b;
+	
+}
+
+.nav-link:hover{
+	color: #F5F5F5;
+}
+#emailandnumber{
+	color: #F5F5F5;
+	font-family: 'Courier new', monospace;
+	font-size: 1rem;
+}
+
+.socialmedia:hover{
+	color:#F5F5F5;
+}

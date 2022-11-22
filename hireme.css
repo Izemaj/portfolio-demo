@@ -1,0 +1,40 @@
+@media screen and (min-width: 1024px){
+	#heading1div{
+		position:absolute;
+		top:10%
+				
+}
+}
+
+
+
+form{
+	box-shadow:inset 6px 6px 6px black, inset -10px -10px 10px black;
+}
+
+#heading1div h1{
+	font-size:3rem;
+}
+
+.socialmedia1{
+	color:#F92C85;
+	font-size:2rem;
+	text-shadow: 5px 5px 10px black;
+}
+
+.text-link{
+	text-decoration:none;
+	color: #F92C85;
+}
+
+.text-link:hover{
+	color: #AAAAAA;
+}
+
+input, textarea{
+  caret-color: #F92C85;
+  display: block;
+  outline: none;
+  box-shadow: inset 6px 6px 6px #cbced1, inset -10px -10px 10px white;
+  border: none;
+}
