@@ -6,3 +6,6 @@ Just thought to share this as it was my first passion project, and it could give
 Coding Languages:<br>
 HTML, CSS,and Bootstrap
 
+<img src="img1.png" alt="Project Snippet">
+<img src="img2.png" alt="Project Snippet">
+<img src="img3.png" alt="Project Snippet">
