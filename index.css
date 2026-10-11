@@ -79,7 +79,7 @@ body{
 	text-shadow: 2px 2px 5px black;
 
 }
-#readmorelink{
+#readmorelink, #projectslink{
 	font-size: 1.5rem;
 	text-decoration: none;
 	color: #F5F5F5;
@@ -121,7 +121,7 @@ body{
 	text-shadow: 10px 5px 5px black;
 }
 
-#heading2div h1{
+#heading2div .portfolio-label{
 	font-size: 1rem;
 }
 
